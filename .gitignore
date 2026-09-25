@@ -1,0 +1,4 @@
+*.o
+*.cask
+cask
+tests/run_tests
